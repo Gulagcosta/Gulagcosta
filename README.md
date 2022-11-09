@@ -24,8 +24,14 @@ Paraense, nascido em 05/2000 e criado aqui com muito orgulho!
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-          
 
+#
+<div>
+
+<a href="https://github.com/Gusttacosta">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusttacosta&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gusttacosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
           
           
           
