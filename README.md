@@ -18,7 +18,7 @@ Paraense, nascido em 05/2000 e criado aqui com muito orgulho!
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
-- Desde 2017 estou em contato com a área da computação, na PRODEPA(Empresa de Tecnologia da Informação e Comunicação do Estado do Pará) foi meu primeiro contato profissional com uma framework o drupal e também com o JAVA. Em 2018 passei o primeiro semestre trabalhando com postgree SQL. Já no segundo semestre de 2019 iniciei meu estagio na PROGEP/UFPA, onde tive contato com o dart e flutter.
+- Desde 2017 estou em contato com a área da computação, na PRODEPA(Empresa de Tecnologia da Informação e Comunicação do Estado do Pará) foi meu primeiro contato profissional com frameworks, drupal e também com o JAVA. Em 2018 passei o primeiro semestre trabalhando com postgree SQL. Já no segundo semestre de 2019 iniciei meu estagio na PROGEP/UFPA, onde tive contato com o dart e flutter.
  
 # Ferramentas que utilizo:
 
