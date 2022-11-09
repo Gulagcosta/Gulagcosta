@@ -1,4 +1,4 @@
-# Sou Gustavo Costa estudante de sistemas de informação na UFPA.
+# Sou Gustavo Costa, estudante de Sistemas de Informação na UFPA.
 Paraense, nascido em 05/2000 e criado aqui com muito orgulho!
 
 
